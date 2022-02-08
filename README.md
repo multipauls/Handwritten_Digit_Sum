@@ -1,4 +1,7 @@
 # Handwritten_Digit_Sum
+
+Github link: https://github.com/multipauls/Handwritten_Digit_Sum/edit/master/README.md
+
 Code to find sum of handwritten digits (4 digit numbers as images)
 
 To run:
